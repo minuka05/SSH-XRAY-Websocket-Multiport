@@ -1,6 +1,6 @@
 [Unit]
-Description=SSH Over Websocket Python Vinstechmy
-Documentation=https://Vinstechmy-Project.net
+Description=SSH Over Websocket Python Cyber Team
+Documentation=https://Cyber-Project.net
 After=network.target nss-lookup.target
 
 [Service]
